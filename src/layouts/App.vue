@@ -7,7 +7,7 @@
 <script>
 import VueExtendLayouts from 'vue-extend-layout'
 export default {
-  name: 'App-minh',
+  name: 'App',
   components: { VueExtendLayouts }
 }
 </script>
